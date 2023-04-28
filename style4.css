@@ -1,0 +1,54 @@
+.float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+    padding-left: 90px;
+}  
+
+.show{
+    color: rgb(238, 58, 67);
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.desc{
+   color: #3d5a80;
+   text-align: left;
+   font-size: x-large;
+}
+
+.float-middle{
+    text-align: center;
+}
+
+.spec{
+    width: 100%;
+    background-color: #ffffff;
+    border-collapse: collapse;
+    border-width: 2px;
+    border-color: #3d5a80;
+    border-style: solid;
+    color: #000000;
+}
+
+.spec td, spec th{
+    border-width: 2px;
+    border-color: #3d5a80;;
+    border-style: solid;
+    padding: 3px;
+}
+
+.spec td{
+    text-align: center;
+}
+
+h3{
+    color: rgb(238, 58, 67);
+    margin: 90px;
+
+}
+
